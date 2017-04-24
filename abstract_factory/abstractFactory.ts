@@ -1,6 +1,7 @@
 namespace AbstractFactoryPattern {
     export interface AbstractProductA {
         methodA(): string;
+		// test GitHub
     }
     export interface AbstractProductB {
         methodB(): number;
